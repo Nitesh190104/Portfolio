@@ -17,8 +17,8 @@ export default function Skills() {
   return (
     <section id="skills">
       <div className="container">
-        <span className="section-tag">Tech Stack</span>
-        <h2 className="section-title">Skills &amp; <span>Technologies</span></h2>
+        <span className="section-tag"></span>
+        <h2 className="section-title"><span>Technologies</span></h2>
 
         <div className="skills-grid">
           {skills.map((skill) => (

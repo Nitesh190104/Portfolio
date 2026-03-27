@@ -144,9 +144,9 @@ export default function Certifications() {
     <>
       <section id="certifications">
         <div className="container">
-          <span className="section-tag">Achievements</span>
+          <span className="section-tag"></span>
           <h2 className="section-title">
-            My <span>Certifications</span>
+            <span>Certificates</span>
           </h2>
           <p className="section-subtitle">
             Continuously learning and validating my skills through industry-recognized certifications.

@@ -60,8 +60,8 @@ export default function Projects() {
   return (
     <section id="projects">
       <div className="container">
-        <span className="section-tag">Portfolio</span>
-        <h2 className="section-title">My <span>Projects</span></h2>
+        <span className="section-tag"></span>
+        <h2 className="section-title"><span>Projects</span></h2>
         <p className="section-subtitle">
           Real-world projects I&apos;ve built and published on GitHub — from AI-powered
           apps to full-stack web platforms.

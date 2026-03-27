@@ -32,9 +32,9 @@ export default function Education() {
   return (
     <section id="education">
       <div className="container">
-        <span className="section-tag">Education</span>
+        <span className="section-tag"></span>
         <h2 className="section-title">
-          My <span>Education</span>
+          <span>Education</span>
         </h2>
         <p className="section-subtitle">
           Academic background and qualifications.

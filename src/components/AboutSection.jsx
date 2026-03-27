@@ -27,9 +27,9 @@ export default function AboutSection() {
   return (
     <section id="about">
       <div className="container">
-        <span className="section-tag">About</span>
+        <span className="section-tag"></span>
         <h2 className="section-title">
-          About <span>Me</span>
+          <span>Me</span>
         </h2>
         <p className="section-subtitle">
           A quick snapshot of who I am and what I work with.
