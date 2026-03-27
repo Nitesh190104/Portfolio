@@ -37,7 +37,7 @@ export default function Navbar() {
   return (
     <nav className="navbar" style={{ borderBottomColor: scrolled ? 'rgba(108, 99, 255, 0.25)' : 'transparent' }}>
       <div className="navbar-inner">
-        <div className="navbar-logo">Nitesh.dev</div>
+        <div className="navbar-logo">Nitesh Kumar</div>
         <ul className="navbar-links">
           {navLinks.map(({ href, label }) => (
             <li key={href}>
