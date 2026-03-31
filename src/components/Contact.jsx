@@ -68,7 +68,7 @@ export default function Contact() {
     <section id="contact">
       <div className="container">
         <span className="section-tag"></span>
-        <h2 className="section-title"><span>Touch</span></h2>
+        <h2 className="section-title"><span>Get In Touch</span></h2>
         <p className="section-subtitle">
           Have a project in mind? Let&apos;s work together to build something amazing.
           I&apos;m always open to discussing new opportunities.
